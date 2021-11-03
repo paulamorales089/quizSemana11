@@ -1,5 +1,29 @@
 {
   "dependencies": {
     "firebase": "^9.2.0"
+  },
+  "name": "quizsemana11",
+  "description": "\u0000#\u0000 \u0000q\u0000u\u0000i\u0000z\u0000S\u0000e\u0000m\u0000a\u0000n\u0000a\u00001\u00001\u0000\r\u0000 \u0000",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "start": "webpack --watch --progress",
+    "visualize-bundle": "webpack --analyze"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulamorales089/quizSemana11.git"
+  },
+  "author": "paula morales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulamorales089/quizSemana11/issues"
+  },
+  "homepage": "https://github.com/paulamorales089/quizSemana11#readme",
+  "devDependencies": {
+    "webpack": "^5.61.0",
+    "webpack-cli": "^4.9.1"
   }
 }
