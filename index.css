@@ -1,0 +1,43 @@
+/* TITULLO profes inc*/
+#div_Titulo_profesInc {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+/* div acomodamcion campos de texto*/
+#div_campos_Texto {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.texto{
+
+    margin:2px;
+    width: 15%;
+}
+
+/*BOTON MATRICULAR*/
+#boton_matricular{
+    width: 10%;
+    cursor: pointer; /*ESTA ES LA SUPER MANO*/
+}
+
+#div_categorias{
+
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+
+}
+/*margen de los titulos de las categorias*/
+.margen{
+    margin-left: 40px;
+    margin-right: 40px;
+    
+}
