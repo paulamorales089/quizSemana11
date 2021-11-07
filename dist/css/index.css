@@ -41,3 +41,36 @@
     margin-right: 40px;
     
 }
+
+/* TARJETA SIN BONO*/
+#tarjeta_Zas1{
+    margin-left: 30%;
+}
+
+#tarjeta_Zas2{
+    margin-left: 45%;
+}
+
+#tarjeta_Zas3{
+    margin-left: 60%;
+}
+
+.cartasClass{
+    
+    justify-content: center;
+    flex-direction: column;
+   /* align-items: center;*/
+    display: flex;
+    width: 15%;
+    
+}
+.botonSumar:hover{
+    margin:2px;
+    cursor: pointer; /*ESTA ES LA SUPER MANO*/
+    
+}
+.botonEliminar:hover{
+    margin:2px;
+    cursor: pointer; /*ESTA ES LA SUPER MANO*/
+}
+
